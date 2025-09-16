@@ -41,9 +41,3 @@ At the end of the game, the program must print exactly one of the following mess
 - `PERDEU` → if a mine was revealed.  
 - `FALTOU TERMINAR` → if after all moves no mine was revealed, but there are still unrevealed non-mine cells.  
 
----
-
-## ⚙️ How to Run
-Compile the program:
-```bash
-gcc main.c -o campo_minado
