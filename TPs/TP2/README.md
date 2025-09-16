@@ -32,12 +32,12 @@ Parameters:
   - Functions 3 and 6: no additional parameter required
 
 ### Example commands:
--./tp2 input.txt 1 output.txt # generate inventory report
--./tp2 input.txt 2 0123 # search product by code
--./tp2 input.txt 3 # product with lowest stock
--./tp2 input.txt 4 MG # list products from state MG
--./tp2 input.txt 5 SP # lowest-stock product in state SP
--./tp2 input.txt 6 # total quantity of items
+- ./tp2 input.txt 1 output.txt # generate inventory report
+- ./tp2 input.txt 2 0123 # search product by code
+- ./tp2 input.txt 3 # product with lowest stock
+- ./tp2 input.txt 4 MG # list products from state MG
+- ./tp2 input.txt 5 SP # lowest-stock product in state SP
+- ./tp2 input.txt 6 # total quantity of items
 
 
 ---
