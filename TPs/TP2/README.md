@@ -51,7 +51,7 @@ The input file contains multiple lines with product information:
    - Quantity
    - Price
    - State
-**Example (`input.txt`):**
+## **Example (`input.txt`):**
 3
 0001
 Notebook Basic 14
