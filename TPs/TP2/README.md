@@ -61,7 +61,7 @@ The input file contains multiple lines with product information:
 - **Function 5:** Prints the product from the specified state with the lowest stock quantity.  
 - **Function 6:** Prints a single number representing the total quantity of items in stock (sum of all product quantities).  
 
-**Example output (Function 6):**
+
 
 
 
