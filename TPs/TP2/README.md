@@ -52,22 +52,22 @@ The input file contains multiple lines with product information:
    - Price
    - State
 ## **Example (`input.txt`):**
-3
-0001
-Notebook Basic 14
-10
-1999.99
-MG
-0002
-USB Cable
-5
-7.50
-SP
-0003
-Hard Disk 1TB
-2
-249.90
-MG
+- 3
+- 0001
+- Notebook Basic 14
+- 10
+- 1999.99
+- MG
+- 0002
+- USB Cable
+- 5
+- 7.50
+- SP
+- 0003
+- Hard Disk 1TB
+- 2
+- 249.90
+- MG
 
 ---
 
