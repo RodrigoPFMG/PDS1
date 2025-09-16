@@ -12,7 +12,7 @@ The course covers the fundamentals of programming and software development, incl
 ## 📂 Repository structure
 The codes are organized into:
 - **Practical assignments (TPs)**  
-- **Exercise lists**  
+- **Exercise lists (ELs)**  
 
 ## 🚀 Purpose
 The purpose of this repository is to record my progress throughout the course, centralize the code developed, and serve as a reference for future studies.  
