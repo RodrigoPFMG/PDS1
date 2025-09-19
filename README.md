@@ -1,6 +1,6 @@
 # PDS1
 
-This repository contains assignments and exercises developed during the course **Programming and Systems Development 1** at the Federal University of Minas Gerais (UFMG).
+This repository contains assignments and exercises developed during the course **Programming and Systems Development 1** at the Federal University of Minas Gerais (UFMG), taken in the second semester of 2023.
 
 ## 📌 About the course
 The course covers the fundamentals of programming and software development, including:
