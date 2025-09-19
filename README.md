@@ -24,4 +24,4 @@ If you are also taking this course, I recommend using the content as study suppo
 ---
 
 ✍️ Developed by Rodrigo Prates Ferreira e Maia Gonçalves 
-📚 Information Systems – UFMG
+- 📚 Information Systems – UFMG
